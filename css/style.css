@@ -16,3 +16,22 @@
     font-size: 1.5em;
     font-weight: bold;
 }
+
+.regions {
+    fill: #4e4206;
+    stroke: #fbfbfb;
+    stroke-width: 1px;
+}
+
+.gratLines {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+}
+
+.gratBackground {
+    fill: #D5E3FF;
+}
+.map {
+    border: medium solid #999;
+}
